@@ -1,4 +1,4 @@
-# Project Title
+# Burden analysis
 
 This is an overview of oligogenic burden analysis across functional categories.
 
