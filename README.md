@@ -1,5 +1,8 @@
 # Project Title
 
-This is an example of adding an image to a README.
+This is an overview of oligogenic burden analysis across functional categories.
 
 ![Example Image](image1.png)
+
+These are functional categories utilized in our study. 
+![Example Image](Image2.png)
